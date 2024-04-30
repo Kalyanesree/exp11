@@ -37,7 +37,6 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 ![program 11](https://github.com/Kalyanesree/exp11/assets/163311552/40242f7e-46fb-4cba-a06c-78fe92aebc52)
 
-
 Developed by: KALYANE SREE M   RegisterNumber:212222050028
 */
 
